@@ -28,5 +28,5 @@
 
   - By compiling and running the program once, you will be able to see the message in the file.txt
   - If you run the outputed program agin, then it will be hex changed again to orginal as first.
-  - file.txt now are xored, if you want to see the message runthe program once.    
+  - file.txt now are xored, if you want to see the message run the program once.    
 
