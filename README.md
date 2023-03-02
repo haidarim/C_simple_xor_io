@@ -1,4 +1,4 @@
-# a very basic program in C to change binary codes:
+# A very basic program in C to change binary codes:
 - this program reads the file.txt (or you can change it to even better)
 - then first by storing it then the program writes file's binary-code xor HEX on it
   and replace it.
@@ -26,7 +26,7 @@
     }
   ```
 
-  ## By compiling and running the program once, you will be able to see the message in the file.txt
-  ## If you run the outputed program agin, then it will be hex changed again to orginal as first.
+  - By compiling and running the program once, you will be able to see the message in the file.txt
+  -- If you run the outputed program agin, then it will be hex changed again to orginal as first.
   - file.txt now are xored, if you want to see the message runthe program once.    
 
